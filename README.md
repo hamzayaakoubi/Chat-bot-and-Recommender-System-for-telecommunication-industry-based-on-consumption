@@ -1,2 +1,2 @@
-# movie-recommender-system-tmdb-dataset
-A content based movie recommender system using cosine similarity
+# offers-recommender-system
+A content based offers recommender system using cosine similarity and streamlit python
